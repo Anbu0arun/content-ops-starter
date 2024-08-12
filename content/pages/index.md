@@ -11,7 +11,7 @@ sections:
     text: |
       Krithishan Kutty Chellam
     actions:
-      - label: Get started
+      - label: Kutty
         altText: ''
         url: /
         showIcon: false
